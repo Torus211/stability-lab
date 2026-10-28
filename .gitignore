@@ -1,0 +1,12 @@
+lab
+lab.exe
+*.obj
+*.pdb
+*.ilk
+trajectory.csv
+critical.csv
+graphs.png
+.venv/
+__pycache__/
+.vs/
+.DS_Store
